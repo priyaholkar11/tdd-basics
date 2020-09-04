@@ -14,6 +14,10 @@ namespace BowlingBall
             throw new NotImplementedException();
         }
 
+        private void CalculateBouns(ref int frameIndex, ref int score)
+        {
+            throw new NotImplementedException();
+        }
     }
 }
 
